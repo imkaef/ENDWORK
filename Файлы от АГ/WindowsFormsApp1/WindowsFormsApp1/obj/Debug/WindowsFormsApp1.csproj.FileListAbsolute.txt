@@ -1,0 +1,32 @@
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Odmen\Desktop\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Temperature.exe.config
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Temperature.exe
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Temperature.pdb
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Temperature.exe
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Temperature.pdb
+C:\Users\Odmen\Desktop\datchik_temp\222222\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainWindow.resources
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Temperature.exe.config
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Temperature.exe
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Temperature.pdb
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainWindow.resources
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Temperature.exe
+C:\Users\Odmen\Desktop\datchik_temp\VS Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Temperature.pdb
